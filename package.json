@@ -1,0 +1,26 @@
+{
+  "name": "avi.js",
+  "version": "1.0.0",
+  "description": "Parse AVI files with Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "structron": "^0.4.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rob--/avi.js.git"
+  },
+  "keywords": [
+    "avi"
+  ],
+  "author": "Rob--",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rob--/avi.js/issues"
+  },
+  "homepage": "https://github.com/Rob--/avi.js#readme",
+  "type": "module"
+}
